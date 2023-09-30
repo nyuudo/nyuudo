@@ -6,7 +6,7 @@
 
 > Curiosity + Concept + Craft
 
-I consider myself a **Thinksigner** (a deeply curious designer focused on scalable solutions, visual metaphors and the implementation of ideas through **code**).
+I consider myself a **Thinksigner** (a deeply curious designer focused on scalable solutions, visual metaphors and the implementation of ideas through any medium, including **code**).
 
 ## 👁 Attention Investement
 
@@ -18,7 +18,7 @@ Solving a communication problem is not simply **creativity**. A deadline is a th
 
 ## 🧠 Conceptual Analysis
 
-An answer will not be efficient until the question has been sufficiently explored. Questioning everything is the most attractive part of the **creative** process. I'm experienced in: Information Architecture, Brand Design, UI Design, Research, Storytelling, Desktop Publishing, Wireframing, Storyboarding and Illustration.
+An answer will not be efficient until the question has been properly explored. Questioning everything is the most attractive part of the **creative** process. I'm experienced in: Information Architecture, Brand Design, UI Design, Research, Storytelling, Desktop Publishing, Wireframing, Storyboarding and Illustration.
 
 ## 📲 Common Sense Tech
 
